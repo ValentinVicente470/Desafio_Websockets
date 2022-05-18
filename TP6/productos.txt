@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Teclado",
+    "price": "8.000",
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/hardware-and-devices/64/Hardware_devices_keyboard-128.png",
+    "id": 1
+  },
+  {
+    "name": "mouse",
+    "price": "5.000",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/electronics-and-gadget-3/64/MOUSE-devices-electronics-gadget-tools-128.png",
+    "id": 2
+  },
+  {
+    "name": "monitor",
+    "price": "50.000",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/flat-set-2/64/flat_set_2-09-128.png",
+    "id": 3
+  },
+  {
+    "name": "Audiculares",
+    "price": "12.000",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/don-t-stop-the-music/66/headphones-128.png",
+    "id": 4
+  },
+  {
+    "name": "Celular",
+    "price": "75.000",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/smartphone-app-flaticon/64/APP-smartphone-celular-mobile_app-technology-128.png",
+    "id": 5
+  },
+  {
+    "name": "Smartwatch",
+    "price": "25.000",
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/shopping-and-commerce-3-8/134/209-128.png",
+    "id": 6
+  },
+  {
+    "name": "Usb",
+    "price": "700",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/it-components-2/24/flash_drive_usb_pendrive-128.png",
+    "id": 7
+  },
+  {
+    "name": "Ventilador",
+    "price": "7.000",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/home-appliances-18/64/_Fan-128.png",
+    "id": 8
+  },
+  {
+    "name": "Television",
+    "price": "45.000",
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/tourism-travel-1/256/TV-128.png",
+    "id": 9
+  }
+]
